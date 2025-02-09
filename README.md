@@ -10,6 +10,7 @@ Ignore caps, i was a noob named Luke111 trying to spam and thought caps made you
 
 So PEOPLE are you ready to climbing this hurdle? ROM Hacking is nothing but trust in yourself more than others. Break things and make experiments instead of being a slave of already made creeps make your own creep.
 ##### Ignore all the tool names and things i shared above if you know nothing about them
+REFER these question and answers for some clarity : https://github.com/Shiny-Miner/GBA-Binary-hacking-assets/wiki/Information-about-binary-:-A-start
 # Point 1. Pointing to the right direction of rom hacking
 .......
 
