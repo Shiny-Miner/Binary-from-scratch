@@ -35,9 +35,9 @@ That's all about advanced level. Surely read this 1-2 times more and you'll neve
 
 # Level 2 Finding a FR rom and unzipping
 Probably this is my github and I'm not gonna care of anyone else. I SHARE you the link to the best and cleanest Fire Red rom I'm using till now... 
-[Link] (https://archive.org/download/1636PokemonFireRedUSquirrels/1636%20-%20Pokemon%20Fire%20Red%20%28U%29%28Squirrels%29.zip/)
+[Link](https://archive.org/download/1636PokemonFireRedUSquirrels/1636%20-%20Pokemon%20Fire%20Red%20%28U%29%28Squirrels%29.zip/)
 Now what you gonna need is Winrar , the best tools to play with these unzipping and so things. We need this thing 500 times a day lol.
 Probably lemme share a premium version of WinRar for Free
 https://blindhelp.net/software/winrar
-Click the Download for windows button to download it and install it , well all pokemon fans know these things so I leave this till here. For those who don't know , just install this winrar and now right click on your .zip file (test on the rom zip) and then click Extract to < archive> something like this just click it and the file be in now in a folder thats it.
+Click the Download for windows button to download it and install it , well all pokemon fans know these things so I leave this till here. For those who don't know , just install this winrar and now right click on your .zip file (test on the rom zip) and then click Extract to < archive name > something like this just click it and the file be in now in a folder thats it.
 #### Remember in later tutorials or if you're a hex maniac advance user Opening zip file in Hex maniac doesn't works so you need to follow it first!!!
