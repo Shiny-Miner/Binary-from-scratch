@@ -32,3 +32,12 @@ Suppose we go to offset BD302 and we found bytes there as 'FF' then its a free o
 Every operation we do in our rom, we're changing these bytes, sometimes replacing some (very usual), sometimes freeing up some (rare), even adding graphics, maps, scripts all just do byte changes in your rom and these bytes are changed in a way that we can actually get our desired output. Well what patches do is comparing these bytes changes, saving a data file like .ips which contains data, at this offset this bytes was changed and when applied to a vanilla/clean rom the magic happens.
 BUT, this isn't enough, while making a patch you're asked for 2 roms one is modified rom and one is original rom (unmodified) but its not necessary that your unmodified rom should be a vanilla rom. I mean suppose you added a trainer card and made a patch then it will be a trainer card patch but if you do the reverse? What i mean is if you would have taken the modified trainer card rom as unmodified rom in your patch creator and vanilla rom as modified rom then IT WILL BE A REMOVAL PATCH!
 That's all about advanced level. Surely read this 1-2 times more and you'll never forget about offsets and bytes they're the necessary elements if you want to be a good rom hacker (we're gonna do some cool bytes changes in next Level so that you get to know how dynamic byte changes can be)
+
+# Level 2 Finding a FR rom and unzipping
+Probably this is my github and I'm not gonna care of anyone else. I SHARE you the link to the best and cleanest Fire Red rom I'm using till now... 
+[Link] (https://archive.org/download/1636PokemonFireRedUSquirrels/1636%20-%20Pokemon%20Fire%20Red%20%28U%29%28Squirrels%29.zip/)
+Now what you gonna need is Winrar , the best tools to play with these unzipping and so things. We need this thing 500 times a day lol.
+Probably lemme share a premium version of WinRar for Free
+https://blindhelp.net/software/winrar
+Click the Download for windows button to download it and install it , well all pokemon fans know these things so I leave this till here. For those who don't know , just install this winrar and now right click on your .zip file (test on the rom zip) and then click Extract to < archive> something like this just click it and the file be in now in a folder thats it.
+#### Remember in later tutorials or if you're a hex maniac advance user Opening zip file in Hex maniac doesn't works so you need to follow it first!!!
