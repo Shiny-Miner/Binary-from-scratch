@@ -4,3 +4,4 @@ Pre-requisites:
 * Any hex edior (Hex maniac advance or HxD)
 * mgba or whatever emulator you use for testing
 * unzipped .gba fire red
+I don't think you need link for the things mentioned above other than hex maniac advance which is already in pack i shared and also on the Pokecommunity link
