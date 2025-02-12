@@ -16,7 +16,7 @@ Let's comeback!
 * [Hex maniac advance](https://www.pokecommunity.com/threads/hexmaniacadvance-a-new-hex-editor-for-gen-3-hacking.428388/)
 Tool info: This is a modern day hex editor with amazing GUI and actually demonstrates how really byte change can make difference. Its a one in all tool containing its own map editor, script editor, graphic editor, image editor and its a HEX EDITOR! Level 4 will be containing coverage on this tool + Level 2.
 The other tools include HxD (a normal hex editor) , Pokemon Game Editor (PGE) , Gen3Tools (G3T) , some more tiles, image and pokemon editing tools which are of no use to us currently here.
-As i said [Here](https://github.com/Shiny-Miner/GBA-Binary-hacking-assets) is the link that contains all tools + lot of graphics (garbage for you right now) its useless using them until i say.
+As i said [Here](https://github.com/Shiny-Miner/GBA-Binary-hacking-assets) is the link that contains all tools + lot of graphics (garbage for you right now) its useless using them until i say. To download it Click of "Code " appearing in clean colour then click on download zip that's it.
 
 Pass to Level 4 now here:
 https://github.com/Shiny-Miner/Binary-from-scratch/blob/main/Level4/Readme.md
