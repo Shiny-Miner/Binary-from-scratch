@@ -5,3 +5,6 @@ Pre-requisites:
 * mgba or whatever emulator you use for testing
 * unzipped .gba fire red
 I don't think you need link for the things mentioned above other than hex maniac advance which is already in pack i shared and also on the Pokecommunity link
+### Basic hex editing
+``Now what we're going to do is basic hex editing``
+I'll leave writing this to some other day with screenshots, till then thanks but be ready!
