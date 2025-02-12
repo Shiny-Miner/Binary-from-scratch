@@ -12,6 +12,7 @@ So PEOPLE are you ready to climbing this hurdle? ROM Hacking is nothing but trus
 ##### Ignore all the tool names and things i shared above if you know nothing about them
 REFER these question and answers for some clarity : https://github.com/Shiny-Miner/GBA-Binary-hacking-assets/wiki/Information-about-binary-:-A-start
 # Level 1 : Patching , advance level patching and bit on what they do and ALL INFO on offsets and bytes for a start!
+If you don't know what patches are , they're .ips , .ups files shared by game makers because they can't share roms. To follow this tutorial series you need to know how to apply .ups and .ips patches.
 Probably if your a good pokemon player then you should be allready knowing why patches are made but lets take this topic to advance level.
 Hmm whenever you've been roaming around in some often used communities like Pokeconmunity and try to download a rom hack and its in attachments but --- in some unknown .ips,.ups,.bps format? Ah sus i wanted a .gba rom man!
 ## What are these patches? Why do rom hackers create them?
