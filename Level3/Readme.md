@@ -18,3 +18,4 @@ Tool info: This is a modern day hex editor with amazing GUI and actually demonst
 The other tools include HxD (a normal hex editor) , Pokemon Game Editor (PGE) , Gen3Tools (G3T) , some more tiles, image and pokemon editing tools which are of no use to us currently here.
 As i said [Here](https://github.com/Shiny-Miner/GBA-Binary-hacking-assets) is the link that contains all tools + lot of graphics (garbage for you right now) its useless using them until i say.
 Pass to Level 4 now here:
+https://github.com/Shiny-Miner/Binary-from-scratch/blob/main/Level4/Readme.md
