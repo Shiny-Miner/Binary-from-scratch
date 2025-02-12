@@ -34,8 +34,8 @@ BUT, this isn't enough, while making a patch you're asked for 2 roms one is modi
 That's all about advanced level. Surely read this 1-2 times more and you'll never forget about offsets and bytes they're the necessary elements if you want to be a good rom hacker (we're gonna do some cool bytes changes in next Level so that you get to know how dynamic byte changes can be)
 
 # Level 2 Finding a FR rom and unzipping
-Probably this is my github and I'm not gonna care of anyone else. I SHARE you the link to the best and cleanest Fire Red rom I'm using till now... 
-[Link](https://archive.org/download/1636PokemonFireRedUSquirrels/1636%20-%20Pokemon%20Fire%20Red%20%28U%29%28Squirrels%29.zip/)
+First quest is now to find yourself a fire red rom. Probably you'll need Fire red 1.0 or 1636 squirells, its easily findable and if you can't even get that then do not expect yourself to be following this series more. (Consider it a big mission)
+##### NOTE: DO NOT DOWNLOAD FIRE RED 1.1, its not supported! Also i could have linked a direct link but it takes the whole fun away also its not allowed due to copyright issues.
 Now what you gonna need is Winrar , the best tools to play with these unzipping and so things. We need this thing 500 times a day lol.
 Probably lemme share a premium version of WinRar for Free
 https://blindhelp.net/software/winrar
