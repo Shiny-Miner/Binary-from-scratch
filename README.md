@@ -41,3 +41,5 @@ Probably lemme share a premium version of WinRar for Free
 https://blindhelp.net/software/winrar
 Click the Download for windows button to download it and install it , well all pokemon fans know these things so I leave this till here. For those who don't know , just install this winrar and now right click on your .zip file (test on the rom zip) and then click Extract to < archive name > something like this just click it and the file be in now in a folder thats it.
 #### Remember in later tutorials or if you're a hex maniac advance user Opening zip file in Hex maniac doesn't works so you need to follow it first!!!
+Pass to level 3 here to continue your learning journey:
+https://github.com/Shiny-Miner/Binary-from-scratch/blob/main/Level3/Readme.md
